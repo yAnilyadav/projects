@@ -1,0 +1,11 @@
+#login{
+  text-align: center;
+  margin-top: 250px;
+}
+#register,#signin{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+body{
+  background: linear-gradient(89deg, #FF5EDF 0%,#04C8DE 100%)
+}
