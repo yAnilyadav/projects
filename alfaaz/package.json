@@ -1,0 +1,22 @@
+{
+  "name": "poetry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start":"node server.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.4"
+  },
+  "engines":{
+    "node":"10",
+    "npm":"6"
+  }
+  
+
+}
